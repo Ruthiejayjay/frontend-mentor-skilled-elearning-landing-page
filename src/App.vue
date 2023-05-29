@@ -3,6 +3,7 @@
     <section>
       <AppHeader />
       <AppHero />
+      <AppContent />
       <div class="bg-black text-white md:text-red lg:text-green">
         desktop
       </div>
@@ -16,6 +17,7 @@
 <script setup>
 import AppHeader from '@/components/AppHeader.vue'
 import AppHero from './components/AppHero.vue';
+import AppContent from './components/AppContent.vue';
 </script>
 
 <style>
