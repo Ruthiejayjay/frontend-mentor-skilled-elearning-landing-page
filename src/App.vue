@@ -5,11 +5,6 @@
       <AppHero />
       <AppContent />
       <AppFooter />
-      <div class="bg-black text-white md:text-red lg:text-green">
-        desktop
-      </div>
-      <div class="bg-black text-white md:text-red lg:text-green">mobile</div>
-      <div class="bg-black text-white md:text-red lg:text-green">tablet</div>
     </section>
     
   </div>
