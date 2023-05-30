@@ -16,7 +16,7 @@
             <img class="md:hidden mt-9" src="./..\assets\images\image-hero-mobile@2x.png" alt="mobile-image" />
             <img class="hidden lg:hidden md:block" style="height: 100%;"
                 src="./..\assets\images\image-hero-tablet2x.png" alt="tablet-image" />
-                <img class="hidden md:hidden lg:block -mr-20" src="./..\assets\images\image-hero-desktop2x.png" alt="desktop-image" />
+                <img class="hidden md:hidden lg:block -mr-18" src="./..\assets\images\image-hero-desktop2x.png" alt="desktop-image" />
         </div>
     </div>
 </template>

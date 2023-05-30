@@ -1,5 +1,5 @@
 <template>
-    <div class="h-[900px] background">
+    <div class="h-[1695px] md:h-[999px] lg:h-[888px] background relative">
         <div
             class="my-3 mx-4 md:ml-10 lg:mx-40 grid grid-cols-1 gap-y-10 md:grid-cols-2 md:gap-y-14 md:gap-x-4 lg:grid-cols-3 lg:gap-y-16 lg:gap-x-5">
             <div class="w-full h-[120px] md:h-[259px] lg:h-[322px] rounded-[10px] border-transparent box-background">
@@ -28,7 +28,6 @@
                         how the web looks.</p>
                     <a href="#" class="text-lg font-bold text-violet-red hover:text-light-pink">Get Started</a>
                 </div>
-
             </div>
             <div class=" w-full h-[264px] md:h-[259px] lg:h-[322px] rounded-[10px] border-transparent bg-white">
                 <div class="flex flex-col mx-12 lg:mx-6 gap-y-7">
