@@ -4,6 +4,7 @@
       <AppHeader />
       <AppHero />
       <AppContent />
+      <AppFooter />
       <div class="bg-black text-white md:text-red lg:text-green">
         desktop
       </div>
@@ -18,6 +19,7 @@
 import AppHeader from '@/components/AppHeader.vue'
 import AppHero from './components/AppHero.vue';
 import AppContent from './components/AppContent.vue';
+import AppFooter from './components/AppFooter.vue';
 </script>
 
 <style>
